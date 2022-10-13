@@ -1,6 +1,6 @@
 # bedrocktool
 a minecraft bedrock proxy that can among other things save worlds from servers
-
+[USE ONLY FOR OFFLINE USE] 
 <br/>
 
 ## downloads:
