@@ -179,7 +179,7 @@ func (p *ProxyContext) Run(ctx context.Context, server_address string) (err erro
 		StatusProvider: _status,
 		ResourcePacks:  packs,
 		AcceptedProtocols: []minecraft.Protocol{
-			dummyProto{id: 544, ver: "1.19.20"},
+			dummyProto{id: 560, ver: "1.19.51"},
 		},
 	}.Listen("raknet", ":19132")
 	if err != nil {
